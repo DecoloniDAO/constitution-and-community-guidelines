@@ -1,0 +1,61 @@
+# constitution-and-community-guidelines
+DecoloniDAO's Constitution and Community Guidelines
+
+Manifesto // Why DecoloniDAO:
+
+“O país que não dominar a ciência e tecnologia será colonizado e re-colonizado”                                            “The country that doesn’t master Science and Technology will be colonized and re-colonized”
+Darcy Ribeiro - Brazilian Anthropologist, sociologist, writer, and politician.
+
+There is an escalade of digital rush occurring around the world. As a trustless permissionless alternative to the traditional financial system, Bitcoin has been cherished by many since Satoshi's 2008 whitepaper. Was it disruptive and revolutionary? Definitely!
+But, thirteen years later, it does mean it is a less exclusive system. In places like the Global South or countries that have been colonized, dominated, and slaved, digital exclusion is a forsaken reality. The vast majority of the population lacks the technological, informational, and linguistic apparatus and literacy to manipulate web2 applications, not to mention web3 - still a mystery to many of the “web2 literate”. Blockchain and web3 can be the technological means for people to control their data and their digital identities. It’s the so-called self-sovereign identity. But people - especially in the context of countries that have suffered the constraints of colonization - have to know that.
+With that in mind, DecoloniDAO (a pun on the Portuguese word “decolonial”) has the bold mission to create inclusive spaces in web3 and bring racial, gender, and decolonial perspectives to the web3 ecosystems, to spread information about web3, blockchain, metaverse, IoT, AI and all that goes with it - data protection, algorithmic discrimination, digital identity, etc. - to favelas and quebradas. To do so, what better way than with a DAO?  The purpose of this community is to tackle digital exclusion in all its forms and guises and correct power imbalances in the Global South by working collaboratively and horizontally.
+
+DecoloniDAO
+
+First, what the heck is a DAO?
+
+In a virtual environment, a DAO- acronym for Decentralized Autonomous Organization- brings talents, skills, know-how, backgrounds together in an effort to accomplish a common goal. Their governance and consensus mechanisms are based on blockchain technologies, and they issue their own tokens and rewards using decentralized tools. Technology is the tool and the means, not the aim.
+That being said…
+DecoloniDAO wishes to use the available technology to its full extent in order to achieve the mission previously stated. We wish to use it to manage and strengthen our community.
+
+Mission
+
+Our mission is to prove autonomy through education and capacitation. As our opening phrase by Darcy Ribeiro states, no country can be fully decolonized if it doesn’t master science and technology.
+How should we do so?
+
+First, we should integrate on-chain and off-chain marginalized communities. Our primary attempt is to bring them on-chain, so they can participate more actively in the web3 ecosystem. If that is not possible, we will reach out to them through:
+-Regular web3, responsible AI and data protection micro-courses, or any subject related to science and technology* (online or not);
+-Promote workshops and talks by experts in the said fields, physically in those communities;                                                                                                                                                                        -Hands-on capacitation to allow people to surf web3 and master its tools;                                                           -Any other educational and social projects proposed by a member and approved by the community, if it fits our mission.
+* We emphasize the need for education in web3 since we will be immersed in a web3 ecosystem and organized as a DAO, hence the importance of mastering concepts relating to it and having the skills to interact in such an environment.
+Once participants have completed those capacitation programs, they should be able to:
+-Have their own wallet and know what it means to them (their digital identity on the web) and the importance of keeping it safe;
+-Interact directly with the web3 ecosystem, with other members and DAOS;                                                       -Explain simple web3, AI, and data protection concepts and why they matter;                                            -Being on-chain and fully autonomous and fully conscious of their actions;                                               -Being capable of passing this knowledge forward, escalating it in a decentralized way.
+
+Vision
+Bringing web3 to those who cannot access it is our vision. We want to bring a critical and decolonial perspective to web3. DAOs are ideal settings for decolonial organizations as they allow decentralization, autonomy, and horizontal decision-making. To sum it up, our vision is to make web3 more plural and diverse and empower people to interact with it.
+
+Values
+
+Education
+Education is the means to achieving our goals. Educating and integrating digitally is crucial to our mission.
+
+Autonomy / Horizontality
+We praise the autonomy of each individual. In our view, autonomy is the antithesis of hierarchy, asymmetrical power relationships, exploitation, and colonialism. Throughout this community, participants should always strive to ensure their autonomy. The decision-making process will be horizontal.
+
+Decentralized Governance
+As with any other DAO, and as the technology enables us to, we will be organized in a decentralized way. When our community is established and mature, governance tools and strategies, as well as the distribution of governance tokens, will be decided together.
+
+Decolonial Approach 
+A quick description of Decoloniality found in Wikipedia describes it as “a school of thought used principally by an emerging Latin American movement which focuses on untangling the production of knowledge from a primarily Eurocentric episteme. It critiques the perceived universality of Western knowledge and the superiority of Western culture. Decolonial perspectives see this hegemony as the basis of Western imperialism.”
+We intend to use this critical view toward standard practices and relationships established in web3 and strengthen the Global South communities in this ecosystem.
+
+Human Rights
+Human rights are the primary law in DecoloniDAO. This is what drives us. In addition, we believe that technology should serve and promote human rights, not weaken or attack them. 
+
+Code of Conduct
+
+It is the purpose of its own existence that DecoloniDAO be a safe space for everyone. No discrimination or harassment will be tolerated. Violent and offensive comments within the spaces of the community should be reported by any member and immediately removed by the community's moderators and the permanence of the offending member within DecoloniDAO should be put to the community’s consensus. It is imperative to treat all members with respect and politeness.
+
+Funding, Tokenization, and Technological issues
+Further matters related to funding, tokenization, voting methods, and technological choices such as on which blockchain network we will be based and which tools we will use will be decided collectively, for the time being, by majority vote. Every step of these processes should be carried out in a transparent and fully disclosed manner to all members.
+![image](https://user-images.githubusercontent.com/115040577/210636073-42523f0e-0172-4e5e-9055-ad1fa027b445.png)
